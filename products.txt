@@ -1,0 +1,4 @@
+1 Apple 150 120
+2 Pineapple 100 90
+3 Banana 400 50
+4 Orange 200 50
