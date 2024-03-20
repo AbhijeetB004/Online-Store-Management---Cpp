@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/your_image.png" alt="Online Shopping Management System Logo" width="200px">
-</div>
 
 # 🛒 Online Shopping Management System 🌐
 
