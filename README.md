@@ -8,7 +8,7 @@ Welcome to the Online Shopping Management System! 🎉 This C++ project revoluti
 - **Modular Design**: Crafted with love using object-oriented programming principles for maximum scalability and maintainability.
 - **User-Friendly Interfaces**: Intuitive interfaces for both administrators and buyers, ensuring a delightful shopping experience.
 - **Efficient Data Management**: Seamlessly add, delete, and display products with the power of file input/output operations.
-- **Smooth Navigation**: Navigate through the system like a breeze, making shopping a joyful and hassle-free endeavor. 🌈
+- **Smooth Navigation**: Navigate through the system like a breeze, making shopping a joyful and hassle-free endeavor. 
 
 ## 🚀 Getting Started
 
